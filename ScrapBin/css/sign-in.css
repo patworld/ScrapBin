@@ -1,0 +1,27 @@
+html {
+    overflow-x: hidden;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding-top: 10rem;
+    padding-bottom: 6rem;
+    margin: auto;
+    height: 61vh;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+/*form css*/
+
+.input {
+    margin-bottom: 1rem;
+}
+
+.signinBut {
+    background-color: green;
+}
